@@ -83,3 +83,54 @@ a{
 .menu{
     padding-top: 35px;
 }
+
+
+
+
+
+.sectrion2 {
+    margin-top: 100px;
+}
+.services-text > p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #8643DC;
+}
+
+.services-text > h2 {
+    margin-top: 15px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #25202F;
+}
+.line{
+    margin-top: 10px;
+    border: 1px solid  #8643DC ;
+    width: 50px;
+    height: 2px;
+    left: 165px;
+    top: 802px;
+    background: #8643DC;
+}
+.services-content{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.content-img {
+    display: flex;
+    align-items: center;
+}
+.content-img > h2 {
+    margin-left: 20px;
+}
+
+.content1 > p{
+    margin-top: 20PX;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #47444E;
+}
